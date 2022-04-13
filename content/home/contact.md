@@ -18,7 +18,7 @@ content:
   address: Hunnan District, Shenyang City, Liaoning Province
   office_hours:
     - 'Monday to Friday'
-    - '10:00 to 17:00'
+    - '10:00 a.m. to 5:00 p.m.'
 
 design:
   columns: '2'
