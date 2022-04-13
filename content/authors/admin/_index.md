@@ -62,8 +62,5 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiangyi Chen received the M.S. degree in computer science from Northeastern University, Shenyang, China, in 2019. She is currently pursuing the Ph.D. degree in computer science at Northeastern University, Shenyang, China, supervised by Prof. Hai Zhao and Yuanguo Bi. She is also a Visiting Ph.D. Student in the institute for Computing Systems Architecture, School of Informatics, University of Edinburgh, supervised by Prof. Mahesh K. Marina. Her research interests include edge computing, edge AI, software-defined networking and network function virtualization, etc.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
