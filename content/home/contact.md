@@ -15,7 +15,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: xiangyichen3746@gmail.com
-  address: 
+  address: Hunnan District, Shenyang City, Liaoning Province
   office_hours:
     - 'Monday to Friday'
     - '10:00 to 17:00'
