@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Moible Edge Computing
+    tag: Moible Edge Computing
   - name: Other
     tag: Demo
 
