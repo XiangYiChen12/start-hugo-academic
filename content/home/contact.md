@@ -21,7 +21,7 @@ content:
     country: China
   office_hours:
     - 'Monday to Friday'
-    - '10:00 a.m. to 5:00 p.m.'
+    - '10:00 to 17:00'
 
 design:
   columns: '2'
