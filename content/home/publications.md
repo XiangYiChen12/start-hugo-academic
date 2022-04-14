@@ -10,10 +10,6 @@ headless: true
 weight: 90
 
 title: Publications
-
-item:
-  - organization: Coursera
-    organization_url: 'https://www.coursera.org'
     
 content:  
   # Filter on criteria
@@ -36,7 +32,7 @@ content:
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '3'
+  columns: '2'
 ---
 
 {{% callout note %}}
