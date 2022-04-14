@@ -10,9 +10,9 @@ headless: true
 weight: 90
 
 title: Publications
-links: 
-- name: NorthEastern University
-  link: http://www.neu.edu.cn/
+  links: 
+     - name: NorthEastern University
+       link: http://www.neu.edu.cn/
 
 
 content:
