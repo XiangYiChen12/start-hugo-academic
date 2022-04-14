@@ -10,9 +10,7 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: ''
-
-organizations:
+subtitle: 
   - name: Google Scholar
     url: http://www.neu.edu.cn/
 
