@@ -33,6 +33,8 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
+  background:
+    color:"#bcebe2"
 ---
 
 {{% callout note %}}
