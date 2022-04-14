@@ -2,7 +2,7 @@
 title:  Deep Learning-Based Traffic Prediction for Energy Efficiency Optimization in Software-Defined Networking
 summary: 2022-04-14
 tags:
-- Mobile Edge Computing
+- Demo
 date: "2022-04-14T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
