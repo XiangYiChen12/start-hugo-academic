@@ -10,7 +10,8 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: Google Scholar
+subtitle: 
+    -name: Google Scholar
 
 
 content:
