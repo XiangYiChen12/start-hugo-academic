@@ -10,9 +10,9 @@ headless: true
 weight: 90
 
 title: Publications
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com.hk/citations?hl=zh-CN&user=iv1w1DkAAAAJ
+icon: graduation-cap
+icon_pack: fas
+link: https://scholar.google.com.hk/citations?hl=zh-CN&user=iv1w1DkAAAAJ
 
 subtitle: ''
 
