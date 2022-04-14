@@ -9,7 +9,7 @@ authors:
 - Xingwei Wang
 
 date: "2020-07-31T00:00:00Z"
-doi: "10.1109/JIOT.2022.3140183"
+doi: "10.1109/JSYST.2020.3009315"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-07-31T00:00:00Z"
