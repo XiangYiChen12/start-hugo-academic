@@ -11,7 +11,7 @@ weight: 90
 
 title: Publications
 subtitle: 
-    -name: Google Scholar
+    name: Google Scholar
 
 
 content:
