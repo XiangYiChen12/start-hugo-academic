@@ -12,7 +12,7 @@ weight: 90
 title: Publications
 subtitle: 
   - name: Google Scholar
-    url: http://www.neu.edu.cn/
+
 
 content:
   # Filter on criteria
