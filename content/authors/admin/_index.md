@@ -14,7 +14,7 @@ organizations:
   url: http://www.neu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mobile edge computing.
+bio: My research interests include include edge computing, edge AI, software-defined networking, network function virtualization, etc.
 
 # Interests to show in About widget
 interests:
@@ -62,5 +62,5 @@ email: ""
 highlight_name: true
 ---
 
-Xiangyi Chen received the M.S. degree in computer science from Northeastern University, Shenyang, China, in 2019. She is currently pursuing the Ph.D. degree in computer science at Northeastern University, Shenyang, China, supervised by Prof. Hai Zhao and Yuanguo Bi. She is also a Visiting Ph.D. Student in the institute for Computing Systems Architecture, School of Informatics, University of Edinburgh, supervised by Prof. Mahesh K. Marina. Her research interests include edge computing, edge AI, software-defined networking and network function virtualization, etc.
+Xiangyi Chen received the M.S. degree in computer science from Northeastern University, Shenyang, China, in 2019. She is currently pursuing the Ph.D. degree in computer science at Northeastern University, Shenyang, China, supervised by Prof. Hai Zhao and Yuanguo Bi. She is also a Visiting Ph.D. Student in the institute for Computing Systems Architecture, School of Informatics, University of Edinburgh, supervised by Prof. Mahesh K. Marina. Her research interests include edge computing, edge AI, software-defined networking, network function virtualization, etc.
 
