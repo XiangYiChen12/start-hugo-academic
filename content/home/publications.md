@@ -10,20 +10,9 @@ headless: true
 weight: 90
 
 title: Publications
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
+item:
+  - organization: Coursera
+    organization_url: 'https://www.coursera.org'
 
 content:
   # Filter on criteria
