@@ -9,14 +9,19 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 links:
 
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-  url_code: ""
-  url_pdf: ""
-  url_slides: ""
-  url_video: ""
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -24,11 +29,6 @@ links:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
 ---
 
 Improved ehe t-SNE algorithm by constructing k-nearest neighbor to represent the similarity of nodes. The dimension of the data set was reduced and network nodes were clustered. The limited cache capacity was reasonably allocated to different nodes to balance the load of nodes.
