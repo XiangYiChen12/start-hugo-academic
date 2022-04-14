@@ -10,9 +10,19 @@ headless: true
 weight: 90
 
 title: Publications
-links: 
-   - name: NorthEastern University
-     link: 'http://www.neu.edu.cn/'
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 
 content:
@@ -34,16 +44,9 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: asc
 design:
+  # Choose a view for the listings:
+  view: citation
   columns: '2'
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: 2
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
 ---
 
 {{% callout note %}}
