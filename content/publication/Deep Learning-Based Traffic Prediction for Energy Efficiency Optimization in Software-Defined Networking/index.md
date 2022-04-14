@@ -21,7 +21,7 @@ publishDate: "2020-07-31T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Systems Journal *
+publication: In *IEEE Systems Journal*
 publication_short: In *ISJ*
 
 abstract: Extensive redundant links and dedicated network components are deployed in existing networks to avoid network congestion caused by peak traffic. These network components are underutilized, leading to an extreme waste of electrical energy and negative environmental consequences. Most energy efficiency schemes have little consideration of the subsequent traffic load as well as the impact of energy saving on network performance, which brings many challenges, such as frequent flow rerouting, continual device state transition, and network load imbalance. In this article, we propose an energy efficiency optimization framework based on traffic prediction in software-defined networking, aiming at reducing network energy consumption while ensuring communication quality. First, we design a real-time traffic prediction mechanism based on gated recurrent unit neural network of deep learning to capture the temporal characteristics of network traffic and provide data basis for the deployment of energy-saving strategies. Second, we propose a heuristic algorithm for energy efficiency optimization to balance flow demand and energy consumption and to achieve dynamic load balancing and energy saving. Finally, simulation is carried out through Ryu controller, Mininet, and TensorFlow. Experimental results show that our algorithm achieves about 47.71% reduction in terms of the overall energy consumption with good network load balancing.
