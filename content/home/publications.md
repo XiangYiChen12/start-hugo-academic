@@ -11,8 +11,8 @@ weight: 90
 
 title: Publications
 subtitle: 
-- name: NorthEastern University
-  url: http://www.neu.edu.cn/
+  - name: NorthEastern University
+    url: http://www.neu.edu.cn/
 
 
 content:
