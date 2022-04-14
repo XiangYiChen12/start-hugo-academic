@@ -28,7 +28,7 @@ content:
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-  order: asc
+  order: desc
 design:
   # Choose a view for the listings:
   view: citation
@@ -36,5 +36,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+learn more by [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=iv1w1DkAAAAJ).
 {{% /callout %}}
