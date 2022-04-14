@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-see more in [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=iv1w1DkAAAAJ).
+See more in [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=iv1w1DkAAAAJ).
 {{% /callout %}}
