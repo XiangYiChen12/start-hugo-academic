@@ -10,9 +10,7 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: ''
 
-    
 content:  
   # Filter on criteria
   filters:
