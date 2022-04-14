@@ -10,12 +10,13 @@ headless: true
 weight: 90
 
 title: Publications
-item:
+
+content:
+
+  item:
   - organization: Coursera
     organization_url: 'https://www.coursera.org'
----
----
-content:
+    
   # Filter on criteria
   filters:
     folders:
