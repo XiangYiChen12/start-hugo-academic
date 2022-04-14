@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chen Xiangyi
+title: Xiangyi Chen
 
 # Is this the primary user of the site?
 superuser: true
