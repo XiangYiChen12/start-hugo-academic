@@ -1,6 +1,6 @@
 ---
 title: Mobility-aware Cost-utility Optimization for Microservices in Multi-cell Mobile Edge Computing
-summary: 2020-4-14
+summary: 2020-04-14
 tags:
 - Demo
 date: "2020-04-14T00:00:00Z"
