@@ -1,9 +1,9 @@
 ---
-title: 物联网三维空间智能定位与分布式边缘计算支援方法
-summary: 专利号：CN202110493401.5
+title: Mobility-aware Cost-utility Optimization for Microservices in Multi-cell Mobile Edge Computing
+summary: 2020-4-14
 tags:
-- Mobile Edge Computing
-date: "2016-04-27T00:00:00Z"
+- Demo
+date: "2020-04-14T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
