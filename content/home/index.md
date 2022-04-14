@@ -7,5 +7,5 @@ headless: true
 
 design:
   background:
-    color: "#bcebe2"
+    color: "#cafcf2"
 ---
