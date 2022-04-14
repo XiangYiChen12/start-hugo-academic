@@ -11,7 +11,7 @@ weight: 90
 title:  Publications
 
 subtitle: 
-  -name: google
+   name: google
    url: http://www.neu.edu.cn/
 
     
