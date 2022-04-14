@@ -11,12 +11,11 @@ weight: 90
 
 title: Publications
 
-content:
-
-  item:
+item:
   - organization: Coursera
     organization_url: 'https://www.coursera.org'
     
+content:  
   # Filter on criteria
   filters:
     folders:
