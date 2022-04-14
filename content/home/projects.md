@@ -46,7 +46,6 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
   
-  design:
-    background:
-      color:"#b3e7de"
+  background:
+    color:"#b3e7de"
 ---
