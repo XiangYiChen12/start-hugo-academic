@@ -13,7 +13,7 @@ title: Publications
 item:
   - organization: Coursera
     organization_url: 'https://www.coursera.org'
-
+---
 content:
   # Filter on criteria
   filters:
