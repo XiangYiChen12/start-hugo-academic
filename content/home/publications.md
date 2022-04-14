@@ -10,9 +10,10 @@ headless: true
 weight: 90
 
 title: Publications
-url: https://scholar.google.com.hk/citations?hl=zh-CN&user=iv1w1DkAAAAJ
-
-subtitle: ''
+subtitle: 'Google Scholar'
+- icon: graduation-cap
+    icon_pack: fas
+    url: https://scholar.google.com.hk/citations?hl=zh-CN&user=iv1w1DkAAAAJ
 
 content:
   # Filter on criteria
