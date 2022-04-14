@@ -47,5 +47,5 @@ design:
   flip_alt_rows: false
   
   background:
-    color: "#b0f2e1"
+    color: "#bafcef"
 ---
