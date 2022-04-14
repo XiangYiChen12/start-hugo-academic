@@ -10,10 +10,10 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: 'Google Scholar'
+subtitle: ''
 
 organizations:
-  - name: NorthEast University
+  - name: Google Scholar
     url: http://www.neu.edu.cn/
 
 content:
