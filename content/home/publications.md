@@ -34,7 +34,7 @@ design:
   view: citation
   columns: '2'
   background:
-    color:"#bcebe2"
+    color: "#bcebe2"
 ---
 
 {{% callout note %}}
