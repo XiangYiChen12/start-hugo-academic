@@ -10,11 +10,7 @@ headless: true
 weight: 90
 
 title: Publications
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Google Scholar
-  url: https://scholar.google.com.hk/citations?hl=zh-CN&user=iv1w1DkAAAAJ
+url: https://scholar.google.com.hk/citations?hl=zh-CN&user=iv1w1DkAAAAJ
 
 subtitle: ''
 
