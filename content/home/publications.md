@@ -12,6 +12,7 @@ weight: 90
 title: Publications
 subtitle: 
     name: Google Scholar
+    url: https://scholar.google.com.hk/citations?hl=zh-CN&user=iv1w1DkAAAAJ
 
 
 content:
