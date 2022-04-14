@@ -11,7 +11,10 @@ weight: 90
 
 title: Publications
 subtitle: 'Google Scholar'
-url: https://scholar.google.com.hk/citations?hl=zh-CN&user=iv1w1DkAAAAJ
+
+organizations:
+  - name: NorthEast University
+    url: http://www.neu.edu.cn/
 
 content:
   # Filter on criteria
