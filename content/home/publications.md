@@ -10,7 +10,7 @@ headless: true
 weight: 90
 title:  Publications
 subtitle: google
-   url: http://www.neu.edu.cn/
+url: http://www.neu.edu.cn/
 
     
 content:  
