@@ -9,9 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
--title: Publications
--subtitle: 'Google Scholar'
- url: https://scholar.google.com.hk/citations?hl=zh-CN&user=iv1w1DkAAAAJ
+title: Publications
+subtitle: 'Google Scholar'
+url: https://scholar.google.com.hk/citations?hl=zh-CN&user=iv1w1DkAAAAJ
 
 content:
   # Filter on criteria
