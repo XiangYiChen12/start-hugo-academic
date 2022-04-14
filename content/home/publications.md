@@ -8,12 +8,13 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 90
-main：
-  -title:  Publications
-   weight: 90
-  -subtitle: google
+title:  Publications
+
+weight: 100
+subtitle: 
+  -name: google
    url: http://www.neu.edu.cn/
-   weight: 100
+
     
 content:  
   # Filter on criteria
