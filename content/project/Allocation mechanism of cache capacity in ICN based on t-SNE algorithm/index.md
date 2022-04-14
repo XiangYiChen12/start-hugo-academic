@@ -14,4 +14,4 @@ image:
 
 ---
 
-Improved ehe t-SNE algorithm by constructing k-nearest neighbor to represent the similarity of nodes. The dimension of the data set was reduced and network nodes were clustered. The limited cache capacity was reasonably allocated to different nodes to balance the load of nodes.
+Improved the t-SNE algorithm by constructing k-nearest neighbor to represent the similarity of nodes. The dimension of the data set was reduced and network nodes were clustered. The limited cache capacity was reasonably allocated to different nodes to balance the load of nodes.
