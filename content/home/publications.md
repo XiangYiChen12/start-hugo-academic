@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: 
+social: 
   - name: NorthEastern University
     url: http://www.neu.edu.cn/
 
